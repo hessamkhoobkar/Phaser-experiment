@@ -1,0 +1,110 @@
+{
+  "frames": [
+    {
+      "filename": "chip1",
+      "frame": { "x": 208, "y": 110, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip5",
+      "frame": { "x": 312, "y": 0, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip10",
+      "frame": { "x": 312, "y": 110, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip25",
+      "frame": { "x": 416, "y": 0, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip50",
+      "frame": { "x": 416, "y": 110, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip100",
+      "frame": { "x": 520, "y": 0, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip500",
+      "frame": { "x": 520, "y": 110, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip1k",
+      "frame": { "x": 624, "y": 0, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip5k",
+      "frame": { "x": 624, "y": 110, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip10k",
+      "frame": { "x": 728, "y": 0, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    {
+      "filename": "chip50k",
+      "frame": { "x": 728, "y": 110, "w": 102, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 102, "h": 108 },
+      "sourceSize": { "w": 102, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "image": "chips.png",
+    "format": "RGBA8888",
+    "size": { "w": 1143, "h": 218 },
+    "scale": "1"
+  }
+}
